@@ -54,7 +54,7 @@ This graph shows the improvement in Signal-to-Noise Ratio (SNR) after applying d
 
 This plot compares the noisy signal (yellow) with the filtered signal (blue), clearly showing the reduction in noise.
 
-![Overlay](overlay_graph.png)
+![Overlay](overlay.png) 
 
 Audio Signal Processing
 
