@@ -36,3 +36,42 @@ Filtering improves signal quality, and choosing the correct filter is important.
 
 This project was implemented using MATLAB.
 
+RESULTS
+
+Signal Processing
+
+A simple signal is generated and noise is added to it. Different filters are then applied to observe how effectively the noise can be reduced.
+
+![Signal Plot](signal_plot.png)
+
+ Signal SNR Comparison
+
+This graph shows the improvement in Signal-to-Noise Ratio (SNR) after applying different filters to the signal.
+
+![Signal SNR](snr_graph_signal.png)
+
+ Noisy vs Filtered (Overlay)
+
+This plot compares the noisy signal (yellow) with the filtered signal (blue), clearly showing the reduction in noise.
+
+![Overlay](overlay_graph.png)
+
+Audio Signal Processing
+
+The same filtering techniques are applied to a recorded audio signal. The plots show how the audio waveform changes after filtering.
+
+![Audio Signals](audio_signals.png)
+
+ Audio SNR Comparison
+
+This graph compares the SNR of the audio signal before and after applying different filters.
+
+![Audio SNR](snr_graph.png)
+
+ Audio Spectrogram Analysis
+
+The spectrograms show the frequency content of the audio before and after filtering. The filtered signal shows reduced noise components.
+
+![Audio Spectrogram](audio_spectrogram.png)
+
+
