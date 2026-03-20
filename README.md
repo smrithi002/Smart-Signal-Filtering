@@ -1,6 +1,7 @@
 SMART SIGNAL FILTERING AND NOISE REDUCTION(MATLAB)
 
 OVERVIEW
+
 This project focuses on removing noise from signals using basic digital filters in MATLAB. Both a generated signal and a real audio signal are used to understand how filtering works in practice.
 
 WHAT IS DONE
@@ -30,6 +31,7 @@ APPLICATIONS
 * Basic DSP understanding
 
 CONCLUSION
+
 Filtering improves signal quality, and choosing the correct filter is important. Band Pass filtering works best for signals where the frequency range is known.
 
 This project was implemented using MATLAB.
