@@ -1,2 +1,33 @@
-# Smart-Signal-Filtering
-Signal filtering and noise reduction using LPF,HPF and BPF with SNR analysis in MATLAB
+SMART SIGNAL FILTERING AND NOISE REDUCTION(MATLAB)
+
+OVERVIEW
+This project focuses on removing noise from signals using basic digital filters in MATLAB. Both a generated signal and a real audio signal are used to understand how filtering works in practice.
+
+WHAT IS DONE
+* Created a noisy signal
+* Applied Low Pass, High Pass and Band Pass filters
+* Compared performance using SNR (Signal-to-Noise Ratio)
+* Applied the same filters on a real audio recording
+* Visualized results using plots and spectrogram
+
+OBSERVATIONS
+* Low Pass Filter removes high frequency noise
+* High Pass Filter removes useful signal components, so performance is poor
+* Band Pass Filter gives the best result for real-world signals
+
+AUDIO ANALYSIS
+A short audio recording was used and noise was added. After applying filters:
+* Noise reduction can be seen in time-domain plots
+* Spectrogram shows reduction in noise energy after filtering
+  
+APPLICATIONS
+* Audio noise reduction
+* Communication systems
+* Signal processing in sensors
+* Basic DSP understanding
+
+CONCLUSION
+Filtering improves signal quality, and choosing the correct filter is important. Band Pass filtering works best for signals where the frequency range is known.
+
+This project was implemented using MATLAB.
+
