@@ -72,6 +72,6 @@ This graph compares the SNR of the audio signal before and after applying differ
 
 The spectrograms show the frequency content of the audio before and after filtering. The filtered signal shows reduced noise components.
 
-![Audio Spectrogram](audio_spectrogram.png)
+![Audio Spectrogram](audio_spectogram.png)
 
 
