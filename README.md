@@ -16,7 +16,10 @@ OBSERVATIONS
 * Band Pass Filter gives the best result for real-world signals
 
 AUDIO ANALYSIS
-A short audio recording was used and noise was added. After applying filters:
+
+A short audio recording was used and noise was added.
+
+After applying filters:
 * Noise reduction can be seen in time-domain plots
 * Spectrogram shows reduction in noise energy after filtering
   
